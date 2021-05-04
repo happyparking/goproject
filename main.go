@@ -1,9 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"goproject/hello"
+)
 
 func main() {
-
-	fmt.Println("hello world")
-	fmt.Println("gg")
+	hello.Hello()
 }
