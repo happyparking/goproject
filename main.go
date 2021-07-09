@@ -8,5 +8,5 @@ import (
 func main() {
 	hello.Hello()
 	hello.Hi()
-	fmt.Println("hot fixed 1.2")
+	fmt.Println("hot fixed 1.3")
 }
